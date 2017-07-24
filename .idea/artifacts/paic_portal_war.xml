@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="paic-portal:war">
+    <output-path>$PROJECT_DIR$/paic-portal/target</output-path>
+    <root id="archive" name="paic-portal.war">
+      <element id="artifact" artifact-name="paic-portal:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/paic-common/paic-common.iml" filepath="$PROJECT_DIR$/paic-common/paic-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-console/paic-console.iml" filepath="$PROJECT_DIR$/paic-console/paic-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-dao/paic-dao.iml" filepath="$PROJECT_DIR$/paic-dao/paic-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-interface/paic-interface.iml" filepath="$PROJECT_DIR$/paic-interface/paic-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-login/paic-login.iml" filepath="$PROJECT_DIR$/paic-login/paic-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-pojo/paic-pojo.iml" filepath="$PROJECT_DIR$/paic-pojo/paic-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-portal/paic-portal.iml" filepath="$PROJECT_DIR$/paic-portal/paic-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-service-buyer/paic-service-buyer.iml" filepath="$PROJECT_DIR$/paic-service-buyer/paic-service-buyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-service-cms/paic-service-cms.iml" filepath="$PROJECT_DIR$/paic-service-cms/paic-service-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-service-product/paic-service-product.iml" filepath="$PROJECT_DIR$/paic-service-product/paic-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-service-solr/paic-service-solr.iml" filepath="$PROJECT_DIR$/paic-service-solr/paic-service-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paic-ssm.iml" filepath="$PROJECT_DIR$/paic-ssm.iml" />
+    </modules>
+  </component>
+</project>
