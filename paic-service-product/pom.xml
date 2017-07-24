@@ -11,5 +11,16 @@
 
     <artifactId>paic-service-product</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.paic</groupId>
+            <artifactId>paic-interface</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.paic</groupId>
+            <artifactId>paic-dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

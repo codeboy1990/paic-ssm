@@ -11,5 +11,11 @@
 
     <artifactId>paic-interface</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.paic</groupId>
+            <artifactId>paic-pojo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

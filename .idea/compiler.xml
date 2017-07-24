@@ -56,7 +56,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="paic-login" />
       </profile>
       <profile default="false" name="Annotation profile for paic-portal" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
